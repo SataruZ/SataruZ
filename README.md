@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm SataruZ
 
-<!--
-**SataruZ/SataruZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programer
 
-Here are some ideas to get you started:
+Programer Web 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+💼 Currently working at SataruZ
+
+### Connect with me:
+[GitHub](https://github.com/SataruZ)
+
+## 💻 Tech Stack
+
+JavaScript TypeScript React Node.js Python
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SataruZ&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=SataruZ&theme=radical)
+
