@@ -1,42 +1,39 @@
-<img align="right" alt="Profile" src="https://i.pinimg.com/236x/86/63/11/866311b514a593ddb904687acf868e07.jpg" width="200" height="200" />
 
-# Hi there 👋 I'm SataruZ
+<h1 align="center">Hi 👋, I'm Yosh</h1>
+<h3 align="center">Jepang</h3>
 
-### Form Indo
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YoshCasaster&label=Profile%20views&color=0e75b6&style=flat" alt="YoshCasaster" /> </p>
 
-Hay
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YoshCasaster" alt="YoshCasaster" /></a> </p>
 
-## 📫 How to reach me
+- 🔭 I'm currently working on [Yosh](https://github.com/YoshCasaster/BOT-CRASH-WHATSAPP)
 
-💼 Currently working at SataruZ-Casaster
+- 👯 I'm looking to collaborate on ****
 
-### Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SataruZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sataruz) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/088226772187)
+- 🤝 I'm looking for help with ****
 
-# 💻 Tech Stack
+- 🌱 I'm currently learning ****
 
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-black?logo=java&logoColor=white)
+- 💬 Ask me about ****
 
-### Mobile App Development
-![Android](https://img.shields.io/badge/Android-black?logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-black?logo=ios&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-black?logo=reactnative&logoColor=white)
+- 📫 How to reach me **yoshwdd@gmail.com**
 
-### Database
-![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb&logoColor=white)
+- 👨‍💻 All of my projects are available at []()
 
-### Frontend Development
-![Vue.js](https://img.shields.io/badge/Vue.js-black?logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-black?logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=white)
+- 📝 I regularly write articles on []()
 
-### Backend Development
-![Django](https://img.shields.io/badge/Django-black?logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/YoshCasaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YoshCasaster" height="30" width="40" /></a>
+</p>
 
-# 📊 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="C++" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg" alt="Vue" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next.js/next.js-original.svg" alt="Next.js" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxt.js/nuxt.js-original.svg" alt="Nuxt.js" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" alt="Tailwind" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node.js/node.js-original.svg" alt="Node.js" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=SataruZ&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoshCasaster&show_icons=true&locale=en&layout=compact" alt="YoshCasaster" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SataruZ&theme=radical&hide_border=false)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YoshCasaster&show_icons=true&locale=en" alt="YoshCasaster" /></p>
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=SataruZ&theme=radical&margin-w=15&margin-h=15)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoshCasaster&" alt="YoshCasaster" /></p>
