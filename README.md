@@ -1,36 +1,41 @@
+# Yosh
 
+## FrontEnd Developer
 
-![Banner](https://i.pinimg.com/736x/5d/8f/39/5d8f3975dd3917a094e1431406bb7577.jpg)
+### 👤 About Me
 
-# Hi 👋, I'm SataruZ
+Hay
 
-FrontEnd Developer
+### 🚀 Skills
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SataruZ&label=Profile%20views&color=0e75b6&style=flat" alt="SataruZ" /> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure) ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku) ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SataruZ&theme=tokyonight" alt="SataruZ" /></a> </p>
+### 💼 Work
 
-- 🔭 I'm currently working on [GBLSO](https://github.com/YoshCasaster/BOT-CRASH-WHATSAPP)
-- 👯 I'm looking to collaborate on ****
-- 🤝 I'm looking for help with ****
-- 🌱 I'm currently learning ****
-- 💬 Ask me about ****
-- 📫 How to reach me **sataruz@gmail.com**
-- 👨‍💻 All of my projects are available at [https://yoshcasaster.github.io/WebLVY/](https://yoshcasaster.github.io/WebLVY/)
-- 📝 I regularly write articles on []()
+- 🔭 I'm currently working on [GBLSO](https://github.com/session)
+- 👯 I'm looking to collaborate on [GBLSO](https://github.com/session)
+- 🤝 I'm looking for help with [GBLSO](https://github.com/session)
+- 🌱 I'm currently learning **React**
+- 💬 Ask me about **React**
+- 📫 How to reach me: **yosh@gmail.com**
+- 👨‍💻 Portfolio: [https://github.com/session](https://github.com/session)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/SataruZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SataruZ" height="30" width="40" /></a>
-</p>
+### 🤝 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> </a>
-</p>
+[<img src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" />](https://twitter.com/yosepwd)
+[<img src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" />](https://facebook.com/yosepwd)
+[<img src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" />](https://instagram.com/yosepwd)
+[<img src="https://img.shields.io/badge/-discord-05122A?style=flat&logo=discord" />](https://discord.gg/545458)
+[<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" />](https://linkedin.com/in/yosepwd)
+[<img src="https://img.shields.io/badge/-whatsapp-05122A?style=flat&logo=whatsapp" />](https://wa.me/6288980818668)
+[<img src="https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram" />](https://t.me/yosepwd)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SataruZ&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SataruZ" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SataruZ&show_icons=true&locale=en&theme=tokyonight" alt="SataruZ" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SataruZ&theme=tokyonight" alt="SataruZ" /></p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave)
