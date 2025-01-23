@@ -1,41 +1,34 @@
+![Profile Banner](https://i.pinimg.com/736x/3e/02/5f/3e025fcbfe8db100753de1499fd67fe8.jpg)
+
 # Yosh
+### FrontEnd Developer
 
-## FrontEnd Developer
-
-### 👤 About Me
-
-Hay
-
-### 🚀 Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azure) ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku) ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-
-### 💼 Work
+yahuuu
 
 - 🔭 I'm currently working on [GBLSO](https://github.com/session)
 - 👯 I'm looking to collaborate on [GBLSO](https://github.com/session)
 - 🤝 I'm looking for help with [GBLSO](https://github.com/session)
-- 🌱 I'm currently learning **React**
-- 💬 Ask me about **React**
-- 📫 How to reach me: **yosh@gmail.com**
-- 👨‍💻 Portfolio: [https://github.com/session](https://github.com/session)
+- 🌱 I'm currently learning VUE
+- 💬 Ask me about WEB
+- 📫 How to reach me: yosh@gmail.com
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/session)
+- 📝 I regularly write articles on [Blog](https://github.com/session)
+- 📄 Know about my experiences [Resume](https://github.com/session)
+- ⚡ Fun fact: Funny
 
-### 🤝 Connect with Me
+### Skills:
+`JavaScript` `React` `Webpack` `Spring` `Node.js` `Flutter` `Dart` `MongoDB` `MySQL` `Docker` `Azure` `Heroku` `Figma` `Illustrator`
 
-[<img src="https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter" />](https://twitter.com/yosepwd)
-[<img src="https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook" />](https://facebook.com/yosepwd)
-[<img src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" />](https://instagram.com/yosepwd)
-[<img src="https://img.shields.io/badge/-discord-05122A?style=flat&logo=discord" />](https://discord.gg/545458)
-[<img src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" />](https://linkedin.com/in/yosepwd)
-[<img src="https://img.shields.io/badge/-whatsapp-05122A?style=flat&logo=whatsapp" />](https://wa.me/6288980818668)
-[<img src="https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram" />](https://t.me/yosepwd)
+### Connect with me:
+[twitter](https://twitter.com/yosh) | [facebook](https://fb.com/yosh) | [instagram](https://instagram.com/yosh) | [discord](https://discord.gg/6556464) | [linkedin](https://linkedin.com/in/yosh) | [whatsapp](https://wa.me/6288980818668) | [telegram](https://t.me/yosh)
 
-### 📊 GitHub Stats
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yourusername)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=onedark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=synthwave)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave)
+### 💻 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=onedark)
