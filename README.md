@@ -1,35 +1,82 @@
-![Profile Banner](https://i.pinimg.com/736x/3e/02/5f/3e025fcbfe8db100753de1499fd67fe8.jpg)
+# SataruZ
 
-# SaataruZ
-### FrontEnd Developer
+### Developer
 
-sss
+Hay
 
-- 🔭 I'm currently working on [GBLSO](https://github.com/SataruZ/SataruZ/blob/main/README.md)
-- 👯 I'm looking to collaborate on [GBLSO](https://github.com/SataruZ/SataruZ/blob/main/README.md)
-- 🤝 I'm looking for help with [GBLSO](https://github.com/SataruZ/SataruZ/blob/main/README.md)
-- 🌱 I'm currently learning Vue
-- 💬 Ask me about Web Dev
-- 📫 How to reach me: yaya@gmail.com
-- 👨‍💻 All of my projects are available at [Portfolio](https://i.pinimg.com/736x/3e/02/5f/3e025fcbfe8db100753de1499fd67fe8.jpg)
-- 📝 I regularly write articles on [Blog](https://i.pinimg.com/736x/3e/02/5f/3e025fcbfe8db100753de1499fd67fe8.jpg)
-- 📄 Know about my experiences [Resume](https://i.pinimg.com/736x/3e/02/5f/3e025fcbfe8db100753de1499fd67fe8.jpg)
-- ⚡ Fun fact: https://i.pinimg.com/736x/3e/02/5f/3e025fcbfe8db100753de1499fd67fe8.jpg
 
-## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-555555?style=for-the-badge&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/AndroidStudio-555555?style=for-the-badge&logo=androidstudio&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-555555?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-555555?style=for-the-badge&logo=azure&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-555555?style=for-the-badge&logo=photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-555555?style=for-the-badge&logo=figma&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=SataruZ)
 
-## 🌐 Socials:
-![twitter](https://img.shields.io/badge/twitter-sataruz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![facebook](https://img.shields.io/badge/facebook-sataruz-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![instagram](https://img.shields.io/badge/instagram-sataruz-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![discord](https://img.shields.io/badge/discord-08648-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![linkedin](https://img.shields.io/badge/linkedin-sataruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![whatsapp](https://img.shields.io/badge/whatsapp-088226772171-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![telegram](https://img.shields.io/badge/telegram-sataruz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SataruZ)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yourusername)
+### 👨‍💻 About Me:
+
+🔭 I'm currently working on [SataruZ RPG](https://github.com/SataruZ/SataruZ)
+
+👯 I'm looking to collaborate on [GBLSO](https://github.com/SataruZ/SataruZ)
+
+🤝 I'm looking for help with [BOT WA](https://github.com/SataruZ/SataruZ)
+
+🌱 I'm currently learning React
+
+💬 Ask me about Web Developer
+
+📫 How to reach me yosh@gmail.com
+
+👨‍💻 All of my projects are available at [My Portfolio](https://github.com/SataruZ/SataruZ)
+
+📝 I regularly write articles on [My Blog](https://github.com/SataruZ/SataruZ)
+
+📄 Know about my experiences [My Resume](https://github.com/SataruZ/SataruZ)
+
+⚡ Fun fact: Funny
+
+
+### Connect with me:
+
+[![twitter](https://img.shields.io/badge/-twitter-05122A?style=flat&logo=twitter)](https://twitter.com/sataruz) [![facebook](https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook)](https://fb.com/sataruz) [![instagram](https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram)](https://instagram.com/sataruz) [![discord](https://img.shields.io/badge/-discord-05122A?style=flat&logo=discord)](https://discord.gg/6254498) [![linkedin](https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/sataruz) [![whatsapp](https://img.shields.io/badge/-whatsapp-05122A?style=flat&logo=whatsapp)](https://wa.me/6288980818668) [![telegram](https://img.shields.io/badge/-telegram-05122A?style=flat&logo=telegram)](https://t.me/sataruz)
+
+
+### Skills:
+
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+
+
+### Frontend Development
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte) ![Angularjs](https://img.shields.io/badge/-Angularjs-05122A?style=flat&logo=angularjs) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
+
+### Backend Development
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring) ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
+
+
+### Mobile App Development
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter) ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart) ![React Native](https://img.shields.io/badge/-React Native-05122A?style=flat&logo=react native)
+
+
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+
+### DevOps
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
+
+### Backend as a Service(BaaS)
+![Appwrite](https://img.shields.io/badge/-Appwrite-05122A?style=flat&logo=appwrite) ![Amplify](https://img.shields.io/badge/-Amplify-05122A?style=flat&logo=amplify)
+
+
+### Software
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=photoshop) ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=SataruZ&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)
+
 
 ### 💻 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SataruZ&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
